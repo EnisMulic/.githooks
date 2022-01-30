@@ -10,7 +10,7 @@ A sample project to setup githooks that are managed along with a `git` repositor
 
 ## How to setup
 
-To setup githooks you can include the shareable `.gitconfig` into your local repository buy running 
+To setup githooks you can include the shareable `.gitconfig` into your local repository by running 
 
 ```bash
 git config --local include.path ../.gitconfig
